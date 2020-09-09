@@ -1,0 +1,6 @@
+[submodule "TunedraArduino"]
+	path = TunedraArduino
+	url = C:/Users/mpana/Desktop/Tunedra/TunedraArduino
+[submodule "TunedraAVR"]
+	path = TunedraAVR
+	url = C:/Users/mpana/Desktop/Tunedra/TunedraAVR
