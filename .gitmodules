@@ -3,4 +3,4 @@
 	url = https://github.com/grzala/TunedraArduino
 [submodule "TunedraAVR"]
 	path = TunedraAVR
-	url = C:/Users/mpana/Desktop/Tunedra/TunedraAVR
+	url = https://github.com/grzala/TunedraAVR
